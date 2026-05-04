@@ -1,0 +1,22 @@
+# Build
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Temp
+*.log
+*.tmp
+
+# Database
+*.mdf
+*.ldf
+
+# OS
+.DS_Store
+Thumbs.db
