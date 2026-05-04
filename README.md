@@ -226,7 +226,7 @@ Le système d’impression permet :
 
 \### 💊 Médicaments
 
-!\[Médicaments](screenshots/médicaments.png)
+!\[Médicaments](screenshots/medicaments.png)
 
 
 
