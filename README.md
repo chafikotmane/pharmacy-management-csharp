@@ -254,7 +254,6 @@ Le système d’impression permet :
 
 1\. Cloner le projet :
 
-```bash
 
 git clone https://github.com/ton-user/pharmacell.git
 
